@@ -1,6 +1,5 @@
-# RECALL
+# <a href="https://rethy.xyz/Software/RECALL/">RECALL</a>
+
 <img src="icon.ico">
 
-A primitive take on the (unreleased) Windows Recall feature.
-
-Currently uses JPEGs at quality 30, and uses lzma compression. Screenshot frequency is 2 seconds.
+<a href="https://rethy.xyz/Software/RECALL/">https://rethy.xyz/Software/RECALL/</a>
