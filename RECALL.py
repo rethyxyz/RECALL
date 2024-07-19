@@ -119,6 +119,14 @@ def main():
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
     
+    # Notify that RECALL has been added to the system tray
+    notification.notify(
+        title='RECALL',
+        message='RECALL added to the system tray',
+        app_name='RECALL',
+        app_icon=ICON_PATH
+    )
+
     # Start the tray icon
     setup_tray()
 
