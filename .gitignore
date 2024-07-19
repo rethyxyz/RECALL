@@ -2,3 +2,9 @@ screenshots
 build
 dist
 .vscode
+haystack_env
+saved_images
+Miniconda*
+query*
+RECALL elas*
+test.txt
